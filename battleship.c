@@ -174,7 +174,6 @@ int main()
     Player player2;
 
     // read game mode:
-
     mode = chooseMode();
     printf("\n");
 
