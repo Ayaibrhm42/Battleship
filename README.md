@@ -43,6 +43,3 @@ The game ends when one player sinks all of their opponent's ships
 - Compile the program using a C compiler.
 - Run the executable.
 - Follow on-screen instructions to select game mode and play.
-  
-## Note
-- A detailed high-level description of the game, including test cases and method specifications, is available in the accompanying project report.
